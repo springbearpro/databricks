@@ -1,5 +1,5 @@
 # Databricks notebook source
-import main
+from main import *
 print("notebook created from databricks")
 
 test_spark(spark)
